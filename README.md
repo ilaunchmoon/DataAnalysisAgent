@@ -32,6 +32,7 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
    # Install dependencies
    pip install -r requirements.txt
    ```
+   注意⚠️：python版本为 Python 3.12.9
 
 2. **Configure API Keys**
    - Get OpenAI API key from [OpenAI Platform](https://platform.openai.com)
