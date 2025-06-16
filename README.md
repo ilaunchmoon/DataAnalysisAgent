@@ -42,7 +42,7 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
 
 3. **Run the Application**
    ```bash
-   streamlit run ai_data_analyst.py
+   streamlit run data_analyst.py
    ```
 
 ## Usage
